@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Ju%20Ho%20Lee&fontSize=90)
-
 - 🔭 I’m currently working on VRillAR
 <br>
-<div align=center>🌱 I'm Learning 🌱
+🌱 I'm Learning 🌱
 <br>
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 
@@ -26,5 +24,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeholee&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeholee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
