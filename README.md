@@ -72,7 +72,6 @@ Here are some ideas to get you started:
   -->
   <hr>
   
-  <a href="https://joeholee.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=GitHub&logoColor=white"></a> 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoeholee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="https://instagram.com/codinghamoye"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
    
