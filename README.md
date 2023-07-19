@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>👋 Hi, I'm JoeHo 👋</h1>
+  <h1>👋 Hi, I'm Joeho 👋</h1>
 </div>
 
 
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <br>
   -->
+  <!--
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <br>
@@ -64,7 +65,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
   
   <br>
+  <!--
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
