@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <br>
   -->
   <br>
-  :muscle:Tech Stacks:muscle:
+  💪Tech Stacks💪
   <br>
   <br>
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=Unreal%20Engine&logoColor=white"/>
